@@ -1,20 +1,22 @@
 ---
 layout: home
 
-title: VITEPRESS-TEMPLATE
-titleTemplate: 模版
+title: 北境的Noah
+titleTemplate: 个人记录使用
 
 hero:
-  name: 模版
-  text: 搭建静态站点
-  tagline: 没啥特点仅供娱乐
+  name: Noah的数字花园
+  text: 专注 & 分享
+  tagline: 个人知识库
   actions:
     - theme: brand
-      text: 开始模版
+      text: 开始
+      link: /interview-questions/html/start/
     - theme: alt
-      text: 在 github 上查看模版
+      text: 在 github 上查看
+
     - theme: alt
-      text: 在 掘金 上查看模版
+      text: 在 掘金 上查看
 
 features:
   - icon: 📖

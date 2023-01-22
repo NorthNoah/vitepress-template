@@ -1,0 +1,23 @@
+{
+  "hash": "077e8c47",
+  "browserHash": "64aa1382",
+  "optimized": {
+    "vue": {
+      "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "623cef07",
+      "needsInterop": false
+    },
+    "@xiaomh/vue3-alan-vite-component": {
+      "src": "../../../../node_modules/@xiaomh/vue3-alan-vite-component/lib/vue3-alan-vite-component.es.js",
+      "file": "@xiaomh_vue3-alan-vite-component.js",
+      "fileHash": "ccd23ed1",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-QFLMLH2B": {
+      "file": "chunk-QFLMLH2B.js"
+    }
+  }
+}
